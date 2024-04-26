@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b6592effa2befa4a94164b57db58c6b, type: 3}
+  m_Name: Assault_5
+  m_EditorClassIdentifier: 
+  Name: Assault_5
+  image: {fileID: 21300000, guid: c6c82e48433a30d4dac73b4b0632edb5, type: 3}
+  tile: {fileID: 0}
+  type: 1
+  actionType: 2
+  craftType: 0
+  range: {x: 5, y: 4}
+  stackable: 0
+  HaveDamage: 1
+  DamageInt: 34
+  HaveDefence: 0
+  DefenceeInt: 0
+  WeaponModel: {fileID: 1742657577451652627, guid: dc536469e11ee8a448f26d42b7737e55, type: 3}
+  Cooldown: 0.3
+  Precision: 6
+  Shootrange: 17

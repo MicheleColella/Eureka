@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b6592effa2befa4a94164b57db58c6b, type: 3}
+  m_Name: Circuit_board_1
+  m_EditorClassIdentifier: 
+  Name: Circuit_board_1
+  image: {fileID: 21300000, guid: c9f541908acf8b043a8a3ac26e5d9605, type: 3}
+  tile: {fileID: 0}
+  type: 0
+  actionType: 7
+  craftType: 2
+  range: {x: 5, y: 4}
+  stackable: 0
+  HaveDamage: 0
+  DamageInt: 0
+  HaveDefence: 0
+  DefenceeInt: 0
+  WeaponModel: {fileID: 0}
+  Cooldown: 0
+  Precision: 0
+  Shootrange: 0

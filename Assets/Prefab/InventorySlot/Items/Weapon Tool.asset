@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b6592effa2befa4a94164b57db58c6b, type: 3}
+  m_Name: Weapon Tool
+  m_EditorClassIdentifier: 
+  Name: Weapon
+  image: {fileID: 21300000, guid: 626b9cddb29049e4cac50cd87b419945, type: 3}
+  tile: {fileID: 0}
+  type: 1
+  actionType: 2
+  craftType: 0
+  range: {x: 5, y: 4}
+  stackable: 0
+  HaveDamage: 1
+  DamageInt: 14
+  HaveDefence: 0
+  DefenceeInt: 0
+  WeaponModel: {fileID: 4626923574741998515, guid: 5ad46b02f091684488ef2cb945043eeb, type: 3}
+  Cooldown: 1
+  Precision: 10
+  Shootrange: 10
